@@ -1,7 +1,8 @@
 repo_name: lilcashpl/SeaPlayer
 report_id: 87a10253bc9016b4fc63585d95401d38
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:08:31+00:00'
+timestamp: '2024-01-05T08:31:51+00:00'
 requested_by: romanin-rf
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -26,7 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/requirements.txt
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/requirements.txt
   detection_source: Repo Metadata
   last_updated_by: Romanin
   last_updated_on: 2023-10-10 19:49:24.000000000 Z
@@ -38,6 +40,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -47,6 +50,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/.github/workflows/python-app.yml
   detection_source: ".github/workflows/python-app.yml"
   last_updated_by: Romanin
   last_updated_on: 2023-05-12 20:31:07.000000000 Z
@@ -58,6 +62,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Romanin
   last_updated_on: 2023-05-20 00:52:25.000000000 Z
@@ -71,7 +76,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: requirements.txt
   last_updated_by: Romanin
   last_updated_on: 2023-05-20 00:52:25.000000000 Z
@@ -85,7 +90,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20183/default_3d320a0aa731f16ceb0e7b6999ca7f7cd784aee2.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: pyproject.toml
   last_updated_by: Romanin
   last_updated_on: 2023-11-04 11:10:52.000000000 Z
@@ -99,7 +104,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: plugins/RichDiscordStatus/requirements.txt
   last_updated_by: Romanin
   last_updated_on: 2023-11-28 14:23:42.000000000 Z
@@ -113,7 +118,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19909/default_67f813d4aac73d024261bcfded6ef2b918e384a0.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: requirements.txt
   last_updated_by: Romanin
   last_updated_on: 2023-10-10 19:49:24.000000000 Z
@@ -127,7 +132,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19830/default_74a61b43bdb9fc0cba2978316b9976f43545029b.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: pyproject.toml
   last_updated_by: Romanin
   last_updated_on: 2023-11-04 11:10:52.000000000 Z
@@ -141,7 +146,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19845/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: requirements.txt
   last_updated_by: Romanin
   last_updated_on: 2023-05-28 16:22:15.000000000 Z
@@ -155,7 +160,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19911/default_bc82f0b22ca8fd942e21c317967f4ab61f43eb2c.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: requirements.txt
   last_updated_by: Romanin
   last_updated_on: 2023-05-31 18:52:49.000000000 Z
@@ -169,7 +174,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20000/default_7c419d5d5f0cfad7886b95266eae7ba305cedacf.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: requirements.txt
   last_updated_by: Romanin
   last_updated_on: 2023-07-13 12:53:43.000000000 Z
@@ -183,7 +188,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20097/default_bb71ed9a6e40745c6e8fdd974744dc298eebc0f4.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: pyproject.toml
   last_updated_by: Romanin
   last_updated_on: 2023-11-04 11:10:52.000000000 Z
@@ -196,6 +201,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20756/default_3b89e4079f3032d1be4fc7657dcb47e23c973660.png
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/plugins/RichDiscordStatus/requirements.txt
   detection_source: plugins/RichDiscordStatus/requirements.txt
   last_updated_by: Romanin
   last_updated_on: 2023-11-28 14:23:42.000000000 Z
@@ -209,7 +215,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: pyproject.toml
   last_updated_by: Romanin
   last_updated_on: 2023-11-04 11:10:52.000000000 Z
@@ -223,7 +229,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20072/default_d7fc4eabe57370d13c2a8ad2f7f6bb876c96c66d.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: requirements.txt
   last_updated_by: Romanin
   last_updated_on: 2023-05-28 16:22:15.000000000 Z
@@ -237,7 +243,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20022/default_b0d1a54f127d7017fce41c15f5e85568fb7019ed.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: pyproject.toml
   last_updated_by: Romanin
   last_updated_on: 2023-11-04 11:10:52.000000000 Z
@@ -251,7 +257,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: requirements.txt
   last_updated_by: Romanin
   last_updated_on: 2023-05-28 16:22:15.000000000 Z
@@ -265,7 +271,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19875/default_2270bfab784e3d2c2d999d26b11ee478a9dad238.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: requirements.txt
   last_updated_by: Romanin
   last_updated_on: 2023-10-10 19:49:24.000000000 Z
@@ -279,7 +285,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: pyproject.toml
   last_updated_by: Romanin
   last_updated_on: 2023-07-13 13:44:47.000000000 Z
@@ -293,7 +299,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19964/default_61e35171bd9c0e5c5b88b2e4221ca242576ad8c0.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: pyproject.toml
   last_updated_by: Romanin
   last_updated_on: 2023-11-04 11:10:52.000000000 Z
@@ -307,7 +313,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20247/default_47b8ee8db82e43d9eef35923435bd8cc855f3a1b.png
-  detection_source_url: github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
+  detection_source_url: https://github.com/lilcashpl/SeaPlayer/blob/main/poetry.lock
   detection_source: requirements.txt
   last_updated_by: Romanin
   last_updated_on: 2023-10-10 19:49:24.000000000 Z
